@@ -69,7 +69,7 @@ public class TestTableController {
         TestTable upone = testTableService.getOne(wrapper);
         System.out.println("更新后查询"+JSON.toJSONString(one));
 
-        //删除操作
+        //删除操作-test
 
 
 
