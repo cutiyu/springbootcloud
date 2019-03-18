@@ -10,6 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootcloudApplication {
 
     public static void main(String[] args) {
+        System.out.println("test1");
         SpringApplication.run(SpringbootcloudApplication.class, args);
     }
 
